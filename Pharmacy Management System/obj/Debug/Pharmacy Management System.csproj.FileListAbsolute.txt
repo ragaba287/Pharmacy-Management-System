@@ -1,0 +1,25 @@
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.manifest
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.application
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.AddItem.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Dashboard.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.main.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Sales.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Storage.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Suppliers.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.Cache
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.TrustInfo.xml
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe.manifest
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.application
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojResolveAssemblyReference.cache
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.employe.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.confMessageBox.resources
+G:\STUDY\THIRD YEAR\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.ForgMessageBox.resources
